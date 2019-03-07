@@ -13,6 +13,8 @@ This repository is implementation of the "Beyond a Gaussian Denoiser: Residual L
 
 ## Results
 
+The DnCNN-3 model is trained for three general image denoising tasks, i.e., blind Gaussian denoising, SISR with multiple upscaling factors, and JPEG deblocking with different quality factors.
+
 <table>
     <tr>
         <td><center>JPEG Artifacts (Quality 40)</center></td>
